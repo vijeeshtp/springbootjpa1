@@ -1,14 +1,14 @@
 package com.example.JPAEntityReleationShip;
 
+import com.example.JPAEntityReleationShip.dao.AuthorRepository;
+import com.example.JPAEntityReleationShip.dao.LibraryRepository;
+import com.example.JPAEntityReleationShip.model.Author;
+import com.example.JPAEntityReleationShip.model.Book;
+import com.example.JPAEntityReleationShip.model.Library;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
 
 @SpringBootApplication
 public class JpaEntityReleationShipApplication  implements CommandLineRunner {

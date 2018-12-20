@@ -1,4 +1,4 @@
-package com.example.JPAEntityReleationShip;
+package com.example.JPAEntityReleationShip.controller;
 
 import org.springframework.web.bind.annotation.RestController;
 

@@ -1,5 +1,6 @@
-package com.example.JPAEntityReleationShip;
+package com.example.JPAEntityReleationShip.dao;
 
+import com.example.JPAEntityReleationShip.model.Book;
 import org.springframework.data.repository.CrudRepository;
 
 

@@ -1,4 +1,4 @@
-package com.example.JPAEntityReleationShip;
+package com.example.JPAEntityReleationShip.model;
 
 import java.util.ArrayList;
 import java.util.List;
